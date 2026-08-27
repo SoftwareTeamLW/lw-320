@@ -1,2 +1,16 @@
-# lw-320
-Private product workspace for Luowave LW320.
+# Luowave LW320
+
+Private workspace for LW320 documentation, software integration, examples,
+firmware release preparation, and product assets.
+
+## Repository structure
+
+```text
+docs/       Manuals and integration documentation
+software/   Model-specific software
+firmware/   Firmware metadata and release preparation
+examples/   Example projects
+assets/     Approved product assets
+```
+
+Product content will be added later.
